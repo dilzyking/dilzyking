@@ -42,9 +42,9 @@
 
 <div style="text-align: center;">
   <h3>Profile Stats</h3>
-  <img src="https://komarev.com/ghpvc/?username=dillzyking&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/dillzyking?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/dillzyking?style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=dilzyking&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dilzyking?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/dilzyking?style=social" alt="GitHub Stars"/>
 </div>
 
 ---
